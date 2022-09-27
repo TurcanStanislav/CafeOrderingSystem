@@ -6,7 +6,7 @@ namespace CafeOrderingSystem
     {
         static void Main(string[] args)
         {
-            var launch = new Launch();
+            var startup = new Startup();
         }
     }
 }

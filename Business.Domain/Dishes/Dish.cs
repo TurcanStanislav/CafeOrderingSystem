@@ -1,7 +1,7 @@
-﻿using System;
+﻿using Business.Domain.Ingredients;
 using System.Collections.Generic;
 
-namespace CafeOrderingSystem.Entities
+namespace Business.Domain.Dishes
 {
     public class Dish
     {
